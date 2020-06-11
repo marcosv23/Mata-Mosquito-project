@@ -5,15 +5,9 @@ The front end is based on Bootstrap Features
 
 You must kill all mosquitos untill a certain time, under a degree level;
 
-Just game: 
+Just game and test this ! 
 
-To clone this repo:
-
-git clone https://github.com/marcosv23/Mata-Mosquito-project/edit/master/README.md
-
-so, open the file :
-
-index.html
+https://marcosv23.github.io/Mata-Mosquito-project/
 
 So, you can play, freely.
 
